@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Amr Hassan. I'm a software engineer.
+- 👋 Hi, I’m Amr Hassan, a software engineer.
 - 👀 I’m interested in building efficient solutions.
 - 🌱 I love learning more about software engineering and solving problems.
 - 💞️ I’m seeking a job that can help me share my experience and help me to grow.
